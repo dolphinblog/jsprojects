@@ -202,3 +202,5 @@
 
     echarts.registerTheme('infographic', theme);
 }));
+
+//test.
